@@ -12,7 +12,7 @@
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/ALFAROSO/ADVANCE_TPCS_MOVIE_APP.git
+   git clone https://github.com/ALFAROSO/AT_MOVIE_APP.git
    cd ADVANCE_TPCS_MOVIE_APP
 
 2. Install dependencies:
