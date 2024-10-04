@@ -13,7 +13,7 @@
 
    ```sh
    git clone https://github.com/ALFAROSO/AT_MOVIE_APP.git
-   cd ADVANCE_TPCS_MOVIE_APP
+   cd AT_MOVIE_APP
 
 2. Install dependencies:
 
